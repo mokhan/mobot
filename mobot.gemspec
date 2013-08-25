@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Mobot::VERSION
   spec.authors       = ["mo khan"]
   spec.email         = ["mo@mokhan.ca"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{a simple robot}
+  spec.summary       = %q{this is my personal robot.}
   spec.homepage      = ""
   spec.license       = "MIT"
 

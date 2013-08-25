@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'mobot'
+
+Mobot::Client.run(ARGV[0])

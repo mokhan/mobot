@@ -1,3 +1,5 @@
+require 'date'
+
 module Mobot
-  VERSION = "0.0.1"
+  VERSION = DateTime.now.strftime("%Y.%m.%s")
 end
